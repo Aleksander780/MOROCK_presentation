@@ -1,0 +1,127 @@
+// Метаданные локализации
+LocalizationKey=RU
+LocalizationName=Русский
+
+// Уведомление перед началом игры
+UI_WARNING_HEADER=ВАЖНОЕ УВЕДОМЛЕНИЕ ПЕРЕД ИГРОЙ;
+UI_WARNING_UNDERHEADER=ЭПИЛЕПТИЧЕСКИЕ ПРИПАДКИ И ФОТОЧУВСТВИТЕЛЬНОСТЬ;
+UI_WARNING_INFO=Длительная игра может вызывать усталость глаз и напряжение. Рекомендуется делать регулярные перерывы. Если вы испытываете головокружение, тошноту, судороги, помутнение зрения или любой физический дискомфорт, немедленно прекратите играть и обратитесь к врачу. Эта игра содержит мерцающие изображения и яркие эффекты, которые могут вызывать дискомфорт у людей с фотосенситивной эпилепсией или другими состояниями;
+UI_WARNING_FOOTER=Все персонажи, события и локации, представленные в игре, являются вымышленными. Любые совпадения с реальными людьми, живыми или умершими, а также с реально существующими организациями и событиями являются случайностью;
+
+//Меню
+UI_BUTTON_PRESSANYBUTTON=Нажмите любую кнопку...;
+UI_BUTTON_NEWGAME=Новая игра;
+UI_BUTTON_CONTINUE=Продолжить;
+UI_BUTTON_LOADGAME=Загрузить игру;
+UI_BUTTON_SETTINGS=Настройки;
+UI_BUTTON_EXIT=Выход;
+
+
+//Настройки
+UI_BUTTON_SETTINGSCOMPLETE=Принять;
+UI_BUTTON_SETTINGSBACK=Назад;
+UI_BUTTON_GAMESETTINGS=Игра;
+UI_BUTTON_SCREENSETTINGS=Экран;
+UI_BUTTON_SOUNDSETTINGS=Звук;
+UI_BUTTON_GRAPHICSETTINGS=Графика;
+UI_BUTTON_CONTROLSETTINGS=Управление;
+UI_BUTTON_AVAILABILITY=Доступность;
+
+UI_GAME_SLOT_DIFFICULTY=Сложность;
+UI_GAME_SLOT_AUTOSAVE=Автосохранение;
+UI_GAME_SLOT_AUTOSAVETIMER=Таймер автосохранения;
+UI_GAME_SLOT_REWRITEAUTOSAVE=Перезапись слота автосохранения;
+UI_GAME_SLOT_AIMINGAID=Помощь в прицеливании;
+UI_GAME_SLOT_HIGHTLIGHTITEMS=Подсветка предметов;
+UI_GAME_SLOT_SHOWHEALTHBAR=Показывать шкалу здоровья;
+UI_GAME_SLOT_SHOWMANABAR=Показывать шкалу маны;
+UI_GAME_SLOT_SHOWSTAMINABAR=Показывать шкалу выносливости;
+UI_GAME_SLOT_REWRITEQUICKSAVE=Перезапись слота быстрого сохранения;
+UI_GAME_SLOT_CHEATS=Чит-коды;
+
+UI_GAME_DIFFICULTY_EASY=Легко;
+UI_GAME_DIFFICULTY_NORMAL=Нормально;
+UI_GAME_DIFFICULTY_HARD=Сложно;
+UI_GAME_DIFFICULTY_VERYHARD=КОШМАР;
+
+UI_GAME_DIFFICULTY_EASY_INFO=Расслабленное прохождение. Идеально для изучения сюжета и исследования мира без лишнего стресса;
+UI_GAME_DIFFICULTY_NORMAL_INFO=Оптимальный баланс между вызовом и удовольствием. Подходит для большинства игроков, обеспечивая захватывающий игровой процесс;
+UI_GAME_DIFFICULTY_HARD_INFO=Настоящий вызов вашим навыкам. Потребуется тактическое мышление и точность для выживания в опасном мире;
+UI_GAME_DIFFICULTY_VERYHARD_INFO=Абсолютный хоррор. Каждая ошибка может стать фатальной. Только для тех, кто не боится настоящего испытания;
+
+UI_WINDOW_SLOT_MODE=Режим экрана;
+UI_WINDOW_SCREENSIZE=Размер окна;
+UI_WINDOW_SYNC=Вертикальная синхронизация;
+UI_WINDOW_FREQUENCY=Частота обновлений;
+UI_WINDOW_BRIGHTNESS=Яркость;
+
+UI_VOLUME_SOUND=Громкость звуковых эффектов;
+UI_VOLUME_MUSIC=Громкость музыки;
+
+UI_GRAPHIC_RENDERSCALE=Масштаб рендеринга;
+UI_GRAPHIC_SCALREFILTER=Масштабирующий фильтр;
+UI_GRAPHIC_ANTIALLIASING=Сглаживание;
+UI_GRAPHIC_HDR=HDR;
+UI_GRAPHIC_SHADOWS=Тени;
+UI_GRAPHIC_SOFTSHADOWS=Мягкость теней;
+UI_GRAPHIC_SHADOWSRESOLUTION=Разрешение теней;
+UI_GRAPHIC_CASCADESHADOWS=Детализация теней;
+UI_GRAPHIC_MAXSHADOWDISTANCE=Расстояние отображения теней;
+
+UI_CONTROL_HEADER_MOUSE=Мышь;
+UI_CONTROL_HEADER_CONTROL=Передвижение;
+
+UI_CONTROL_MOUSESENSIVITY_X=Чувствительность мыши по X;
+UI_CONTROL_MOUSESENSIVITY_Y=Чувствительность мыши по Y;
+UI_CONTROL_MOUSESENSIVITY_VERTICALINVERSION=Вертикальная инверсия;
+UI_CONTROL_MOVEFORWARD=Идти вперёд;
+UI_CONTROL_MOVEBACKWARD=Идти назад;
+UI_CONTROL_MOVELEFT=Идти влево;
+UI_CONTROL_MOVERIGHT=Идти вправо;
+UI_CONTROL_JUMP=Прыжок;
+UI_CONTROL_CROUCH=Пригнуться;
+
+UI_GAME_SLOT_PARAMETER_ENABLE=Включено;
+UI_GAME_SLOT_PARAMETER_DISABLE=Выключено;
+
+UI_GAME_SLOT_PARAMETER_AIMINGAID_SLOW=Слабо;
+UI_GAME_SLOT_PARAMETER_AIMINGAID_NORMAL=Стандарт;
+UI_GAME_SLOT_PARAMETER_AIMINGAID_HARD=Сильно;
+
+UI_GAME_SLOT_PARAMETER_ELEMENT_VISIBLE_ADAPTIVE=Адаптивно;
+UI_GAME_SLOT_PARAMETER_ELEMENT_VISIBLE_ALWAYS=Всегда;
+
+UI_GAME_SLOT_PARAMETER_PRESET_VERYLOW=Очень низко;
+UI_GAME_SLOT_PARAMETER_PRESET_LOW=Низко;
+UI_GAME_SLOT_PARAMETER_PRESET_STANDART=Стандарт;
+UI_GAME_SLOT_PARAMETER_PRESET_HIGHT=Высоко;
+UI_GAME_SLOT_PARAMETER_PRESET_VERYHIGHT=Эпично;
+
+UI_GAME_SLOT_PARAMETER_WINDOWMODE_FULL=Полный экран;
+UI_GAME_SLOT_PARAMETER_WINDOWMODE_SCREEN=В окне;
+UI_GAME_SLOT_PARAMETER_WINDOWMODE_NOBORDER=В окне без границ;
+
+//Помощь
+UI_TEXT_HELP[0]=Чтобы запрыгнуть на высокий уступ, подойдите к стене, зажмите и удерживайте кнопку прыжка, чтобы зарядить его. Сила прыжка зависит от времени зарядки. Отпустите кнопку, когда индикатор заряда достигнет нужной высоты.;
+UI_TEXT_HELP[1]=Вы можете открыть дневник/инвентарь в любое время, кроме момента создания заклинания. Это безопасное пространство для просмотра заданий, предметов и изучения записей.;
+UI_TEXT_HELP[2]=В 1977 году исследователи в США получили радиосигнал «Wow! сигнал», который мог быть доказательством существования внеземной жизни.;
+UI_TEXT_HELP[3]=В 2012 году был создан первый в мире 3D-принтер, способный печатать человеческие ткани.;
+UI_TEXT_HELP[4]=Рисунки на стенах в Помпеях свидетельствуют о существовании граффити в античные времена. Древние изображения представляли собой портреты людей, изображения животных и старинные надписи.;
+UI_TEXT_HELP[5]=Учёные создали искусственные клетки, которые могут самостоятельно воспроизводиться.;
+
+//Меню паузы
+UI_MENU_PAUSE_CONTINUE=Продолжить;
+UI_MENU_PAUSE_LOADGAME=Загрузить игру;
+UI_MENU_PAUSE_LOADCHECKPOINT=Последнее сохранение;
+UI_MENU_PAUSE_SETTINGS=Настройки;
+UI_MENU_PAUSE_EXITTOMENU=Выйти в меню;
+UI_MENU_PAUSE_EXIT=Выйти;
+
+
+// Диалоги
+DIALOG_HELLO=Приветствую, путник!;
+DIALOG_QUEST=У меня есть для тебя задание;
+
+// Предметы
+ITEM_SWORD=Стальной меч;
+ITEM_POTION=Зелье здоровья;
